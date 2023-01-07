@@ -7,6 +7,7 @@ WIP python (vers. 3.11) script that auto-generates artwork in MS Paint (*See REQ
 
 ![alt text](Code_Artist/param_testing3.png)
 
-## \#2. 
+## \#2. formulas.ipynb (*Jupyter Notebook/LaTeX*)
+A collection of Various beautiful/aesthetically-pleasing Math formulas displayed using the jupyter notebooks' built-in LaTeX functionality 
 
 ## \#3.
