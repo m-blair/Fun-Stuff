@@ -5,7 +5,7 @@ ___
 ## \#1. Code Artist (*Python*) -
 WIP python (vers. 3.11) script that auto-generates artwork in MS Paint (*See REQUIREMENTS inside for details*)
 
-![alt text](https://github.com/[m-blair]/[Fun-Stuff]/blob/[Code_Artist]/param_testing5.png?raw=true)
+![alt text](Code_Artist/param_testing3.png)
 
 ## \#2. 
 
